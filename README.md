@@ -45,6 +45,6 @@ Este proyecto es un simulador interactivo de compras de productos Apple, desarro
 - Integrar cuadros de diálogo y consola como herramientas de interacción.
 - Estructurar un pequeño sistema basado en JS puro, sin frameworks complejos.
 
-## 🧑‍💻 Autora
+## 👩🏼‍💻 Autora
 
 Carolina Cook
